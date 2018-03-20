@@ -7,13 +7,13 @@ Di artikel ini anda dapat mempelajari bagaimana mulai menggunakan Sociomile dan 
 ## Before You Start
 Berikut adalah hal-hal yang harus anda ketahui sebelum memulai proses ini:
 
-* Sociomile adalah aplikasi berbasis web. Meskipun anda tidak perlu menginstall atau pun mengunduh aplikasi, aplikasi perambah yang anda gunakan harus memenuhi [persyaratan](/sociomile/dukungan-perambah-id.md) teknis kami.
+* Sociomile adalah aplikasi berbasis web. Meskipun anda tidak perlu menginstall atau pun mengunduh aplikasi, aplikasi perambah yang anda gunakan harus memenuhi [persyaratan](/sociomile/id/dukungan-perambah.md) teknis kami.
 * Anda harus menggunakan alamat email yang akan dikaitkan dengan akun. Kami akan menggunakan email ini untuk berkomunikasi dengan Anda, jadi email ini harus alamat email yang bisa Anda akses.
-* Selain email, anda harus menyiapkan akun social media anda sendiri supaya dapat menggunakan Sociomile secara lebih optimal. Silakan pelajari cara memasukkan akun social media di artikel berikut: [Menambah Akun Social Media](http://kb.s45.in/sociomile/menambah-akun-social-media/)
-* Disetiap paket terdapat pilihan langganan percobaan / *free trial* selama 7 hari. Harap diingat, walaupun anda mendapatkan jumlah akun sesuai paket yang anda pilih, pada pilihan langganan percobaan ini anda tetap mendapat satu lisensi pengguna. Silakan pelajari cara menambah lisensi pengguna di artikel berikut: [Menambah Lisensi Pengguna](/sociomile/menambah-lisensi-pengguna/)
+* Selain email, anda harus menyiapkan akun social media anda sendiri supaya dapat menggunakan Sociomile secara lebih optimal. Silakan pelajari cara memasukkan akun social media di artikel berikut: [Menambah Akun Social Media](/sociomile/id/menambah-akun-social-media.md)
+* Disetiap paket terdapat pilihan langganan percobaan / *free trial* selama 7 hari. Harap diingat, walaupun anda mendapatkan jumlah akun sesuai paket yang anda pilih, pada pilihan langganan percobaan ini anda tetap mendapat satu lisensi pengguna. Silakan pelajari cara menambah lisensi pengguna di artikel berikut: [Menambah Lisensi Pengguna](/sociomile/id/menambah-lisensi-pengguna.md)
 
 ## Mendaftar Akun Sociomile
-Ketika anda pertama membuat akun Sociomile, anda harus menyetujui [syarat dan ketentuan](/sociomile/sociomile-terms-and-conditions/) penggunaan. Supaya dapat melanjutkan menggunakan Sociomile, diharapkan anda selalu sesuai dengan syarat dan ketentuan tersebut.
+Ketika anda pertama membuat akun Sociomile, anda harus menyetujui [syarat dan ketentuan](/sociomile/id/sociomile-terms-and-conditions.md) penggunaan. Supaya dapat melanjutkan menggunakan Sociomile, diharapkan anda selalu sesuai dengan syarat dan ketentuan tersebut.
 
 Dibawah ini anda akan mempelajari bagaimana membuat akun Sociomile.
 1. Masuk halaman awal situs [http://www.sociomile.com](http://www.sociomile.com) dan klik tombol **Free Trial**. ![free trial](http://kb.s45.in/wp-content/uploads/2017/10/Screen-Shot-2017-11-16-at-10.45.17.png)
