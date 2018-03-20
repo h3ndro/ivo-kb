@@ -4,7 +4,7 @@ Sociomile adalah platform Customer Care untuk membantu agen layanan pelanggan da
 Berikut hal-hal yang perlu diketahui mengenai Sociomile:
 
 * Satu - satu nya customer service platform yang menjangkaui seluruh channel, baik channel tradisional maupun channel modern.
-* Sangat penting untuk dipahami bahwa ketika anda membuat akun di Sociomile, anda telah menyetujui [syarat dan ketentuan](/sociomile/id/sml-terms-and-conditions-id.md) kami
+* Sangat penting untuk dipahami bahwa ketika anda membuat akun di Sociomile, anda telah menyetujui [syarat dan ketentuan](/sociomile/id/sml-terms-and-conditions.md) kami
 * Article ini hanyalah pengetahuan awal, untuk mengetahui lebih jauh mengenai Sociomile, anda data mengunjungi artikel terkait di *Knowledge Base*.
 
 ## Task Road Map
